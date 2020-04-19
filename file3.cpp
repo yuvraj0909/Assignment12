@@ -8,6 +8,6 @@ void main() {
   cin>>a>>b;
   
   cout << "The sum is "<<a+b<<endl;
-  cout << "The multiplication is "<<a*b;
+  cout << "The product is "<<a*b;
   getch();
 }
