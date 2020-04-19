@@ -7,6 +7,6 @@ void main() {
   cout << "Enter 2 nos ";
   cin>>a>>b;
   
-  cout << "The multiplication is "<<a*b;
+  cout << "The product is "<<a*b;
   getch();
 }
